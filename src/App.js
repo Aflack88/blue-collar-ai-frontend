@@ -3,7 +3,7 @@ import { Search, Camera, Mic, MicOff, ExternalLink, DollarSign, Zap, CheckCircle
 import './App.css';
 
 // Replace with your actual Railway URL
-const API_BASE_URL = 'https://your-railway-url.railway.app'; // CHANGE THIS TO YOUR RAILWAY URL
+const API_BASE_URL = 'https://blue-collar-ai-backend-production.up.railway.app'; // CHANGE THIS TO YOUR RAILWAY URL
 
 const App = () => {
   const [searchQuery, setSearchQuery] = useState('');
